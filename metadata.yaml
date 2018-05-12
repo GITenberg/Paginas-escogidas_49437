@@ -1,10 +1,16 @@
 _repo: Paginas-escogidas_49437
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 49437-h/images/cover.jpg
 creator:
   author:
     agent_name: Machado, Antonio
     gutenberg_agent_id: '45335'
     url: http://www.gutenberg.org/2009/agents/45335
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/49437#Paginas-escogidas
 gutenberg_issued: '2015-07-13'
 gutenberg_type: Text
 identifiers:
